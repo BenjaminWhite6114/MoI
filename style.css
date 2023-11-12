@@ -1,3 +1,18 @@
+/*Default Stylings*/
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover{
+    color: inherit;
+}
+
+.gutter-1{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
 /*Nav Bar*/
 #nav-div {
     color: white;
