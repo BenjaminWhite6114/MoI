@@ -1,0 +1,19 @@
+/*Nav Bar*/
+#nav-div {
+    color: white;
+    background-color: gray;
+    border-bottom: 1px solid black;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+
+/*Large and above Nav bar*/
+@media (min-width: 992px){
+    #nav-div{
+        height: 100%;
+        border-right: 2px solid black;
+    }
+}
